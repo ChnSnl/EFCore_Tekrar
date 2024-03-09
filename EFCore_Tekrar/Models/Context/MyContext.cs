@@ -31,5 +31,6 @@ namespace EFCore_Tekrar.Models.Context
         public DbSet<Product> Products { get; set; }
         public DbSet<OrderDetail> OrderDetails { get; set; }
 
+
     }
 }
